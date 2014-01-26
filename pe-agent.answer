@@ -12,3 +12,4 @@ q_puppetdb_install=n
 q_puppetmaster_install=n
 q_run_updtvpkg=n
 q_vendor_packages_install=y
+q_fail_on_unsuccessful_master_lookup=n
